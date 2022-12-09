@@ -11,6 +11,7 @@ public class AccountsPage {
 	
 	private WebDriver driver;
 	
+	// selecting by css selector
 	private By AccountSections=By.cssSelector("div#center_column span");
 	
 	
